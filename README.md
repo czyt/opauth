@@ -1,2 +1,2 @@
 # opauth
-open policy agent based authorzation library for golang.
+open policy agent based authorization library for golang.
